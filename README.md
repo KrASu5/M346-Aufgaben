@@ -1,3 +1,3 @@
 # M346-Aufgaben
 
-[IaaS, SaaS, PaaS](main/IaaS-PaaS-SaaS.md)
+[IaaS, SaaS, PaaS](IaaS-PaaS-SaaS.md)
