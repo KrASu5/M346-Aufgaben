@@ -22,3 +22,5 @@ Das heisst die zugrundeliegende IT-Infrastruktur wird komplett in der Firma geho
 IT-Systeme werden automatisch zu Hybrid Clouds, wenn APps frei zwischen mehreren separaten, 
 aber miteinander verbunden Umgebungen verschoben werden können. 
 Einige dieser Umgebungen müssen auf IT-Ressourcen aufsetzen, die bei Bedarf skaliert werden können.
+
+[Zurück zu README](README.md)
