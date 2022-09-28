@@ -29,3 +29,5 @@ da es nicht auf einzelnen Geräten heruntergeladen werden muss.
 
 Beispiele für SaaS Anwendungen wären: JIRA, Dropbox
 
+[Zurück zu README](README.md)
+
